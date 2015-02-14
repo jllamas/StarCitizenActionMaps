@@ -6,7 +6,7 @@ Download the zip file and copy the xml files into the directory:
 C:\<StarCitizenInstallDir>\CitizenClient\USER\Controls\Mappings
 ```
 
-To load the custom joystick bindings, open the console with "~" and use the __pp_rebindkeys__ command.
+To load the custom joystick bindings, open the Game Console (__~__) and use the __pp_rebindkeys__ command.
 ```
 pp_rebindkeys
 ```
@@ -17,7 +17,7 @@ pp_rebindkeys custom_joystick_rot3
 ```
 Will apply new action maps by filename
 
-Once you load into your ship and after every respawn you need to enable HOMAS mode (__Right Shift__). This will enable free mouse look so you can aim your turrets and gimbaled weapons without moving the ship. Sometimes it is advantagous to enable Gimbal Lock (__Left Alt__) to bare all your weapons on a target.
+Once you load into your ship and after every respawn you need to enable HOMAS Mode (__Right Shift__). This will enable free mouse look so you can aim your turrets and gimbaled weapons without moving the ship. Sometimes it is advantageous to enable Gimbal Lock (__Left Alt__) to bare all your weapons on a target.
 
 ### Logitech Extreme 3D Pro Buttons
 
