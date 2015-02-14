@@ -5,58 +5,59 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 ### Logitech Extreme 3D Pro Buttons
 
 #### Mavrick custom_joystick_rot3.xml 
-+ Button 1/Trigger
-  + __After Burner__
+<dl>
+  <dt>Button 1/Trigger</dt>
+  <dd>After Burner</dd>
 
-+ Button 2
-  + __Toggle Pin Selected Target__
+  <dt>Button 2</dt>
+  <dd>Toggle Pin Selected Target</dd>
 
-+ Button 3
-  + __Nearest Hostile__
+  <dt>Button 3</dt>
+  <dd>Nearest Hostile</dd>
 
-+ Button 4
-  + __Fire Counter Measure__
+  <dt>Button 4</dt>
+  <dd>Fire Counter Measure</dd>
 
-+ Button 5
-  + __Cycle Hostile Target__
+  <dt>Button 5</dt>
+  <dd>Cycle Hostile Target</dd>
 
-+ Button 6
-  + __Cycle Friendly Target__
+  <dt>Button 6</dt>
+  <dd>Cycle Friendly Target</dd>
 
-+ Buttons 7/8/9/10/11/12
-  + __Unmodified Defaults__
+  <dt>Buttons 7 8 9 10 11 12</dt>
+  <dd>Unmodified Defaults</dd>
 
-+ Hat Up
-  + __Strafe Up__
-  + __Strafe Forward__
+  <dt>Hat Up</dt>
+  <dd>Strafe Up</dd>
+  <dd>Strafe Forward</dd>
 
-+ Hat Down
-  + __Strafe Down__
-  + __Strafe Forward__
+  <dt>Hat Down</dt>
+  <dd>Strafe Down</dd>
+  <dd>Strafe Forward</dd>
  
-+ Hat Left
-  + __Strafe Left__
-  + __Strafe Forward__
+  <dt>Hat Left</dt>
+  <dd>Strafe Left</dd>
+  <dd>Strafe Forward</dd>
  
-+ Hat Right
-  + __Strafe Right__
-  + __Strafe Forward__
+  <dt>Hat Right</dt>
+  <dd>Strafe Right</dd>
+  <dd>Strafe Forward</dd>
  
-+ Joystick Y (Up/Down)
-  + __Pitch__
+  <dt>Joystick Y (Up/Down)</dt>
+  <dd>Pitch</dd>
 
-+ Joystick X (Left/Right)
-  + __Roll__
+  <dt>Joystick X (Left/Right)</dt>
+  <dd>Roll</dd>
 
-+ Joystick Z (Twist)
-  + __Yaw__
+  <dt>Joystick Z (Twist)</dt>
+  <dd>Yaw</dd>
  
 #### Iceman custom_joystick_yaw3.xml 
 Buttons are the same as above except Roll and Yaw are swapped for you Icemen out there.
 
-+ Joystick X (Left/Right)
-  + __Yaw__
+  <dt>Joystick X (Left/Right)</dt>
+  <dd>Yaw</dd>
 
-+ Joystick Z (Twist)
-  + __Roll__
+  <dt>Joystick Z (Twist)</dt>
+  <dd>Roll</dd>
 
