@@ -6,16 +6,16 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 
 #### custom_joystick_rot3.xml Mavrick
 Button 1/Trigger
- - After Burner
+- After Burner
 
 Button 2
- - Toggle Pin Selected Target
+- Toggle Pin Selected Target
 
 Button 3
- - Nearest Hostile
+- Nearest Hostile
 
 Button 4
- - Fire Counter Measure
+- Fire Counter Measure
 
 Button 5
  - Cycle Hostile Target
