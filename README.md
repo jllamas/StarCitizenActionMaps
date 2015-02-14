@@ -6,7 +6,7 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 
 #### Mavrick custom_joystick_rot3.xml 
 + Button 1/Trigger
- + __After Burner__
++ + After Burner
 
 + Button 2
   + __Toggle Pin Selected Target__
