@@ -3,11 +3,16 @@ Custom joystick action maps for Star Citizen for use with Hands On Mouse And Sti
 
 Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir>\CitizenClient\USER\Controls\Mappings directory.
 
-To load the custom joystick bindings, in game open the console with "~" then type:
+To load the custom joystick bindings, in game open the console with "~", and use the __pp_rebindkeys__ command.
+```
+pp_rebindkeys
+```
+Will set the default action maps.
 
-__ pp_rebindkeys __ to reset your bindings to default
-
-__ pp_rebindkeys custom_joystick_rot3 __ to apply new action mappings by filename
+```
+pp_rebindkeys custom_joystick_rot3
+```
+Will apply new action maps by filename
 
 ### Logitech Extreme 3D Pro Buttons
 
