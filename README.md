@@ -15,13 +15,13 @@ Will set the default action maps.
 ```
 pp_rebindkeys custom_joystick_rot3
 ```
-Will apply new action maps by filename
+Will apply new action maps by file name
 
-Once you load into your ship and after every respawn you need to enable HOMAS Mode (__Right Shift__). This will enable free mouse look so you can aim your turrets and gimbaled weapons without moving the ship. Sometimes it is advantageous to enable Gimbal Lock (__Left Alt__) to bare all your weapons on a target.
+Once you load into your ship and after every re-spawn you need to enable HOMAS Mode (__Right Shift__). This will enable free mouse look so you can aim your turrets and gimbaled weapons without moving the ship. Sometimes it is advantageous to enable Gimbal Lock (__Left Alt__) to bare all your weapons on a target.
 
 ### Logitech Extreme 3D Pro Buttons
 
-#### Mavrick custom_joystick_rot3.xml 
+#### Maverick custom_joystick_rot3.xml 
 <dl>
   <dt>Button 1/Trigger</dt>
   <dd>After Burner</dd>
