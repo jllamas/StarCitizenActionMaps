@@ -4,59 +4,59 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 
 ### Logitech Extreme 3D Pro Buttons
 
-#### custom_joystick_rot3.xml Mavrick
+#### Mavrick custom_joystick_rot3.xml 
 + Button 1/Trigger
-  + After Burner
+  + __After Burner__
 
-Button 2
-- Toggle Pin Selected Target
++ Button 2
+  + __Toggle Pin Selected Target__
 
-Button 3
-- Nearest Hostile
++ Button 3
+  + __Nearest Hostile__
 
-Button 4
-- Fire Counter Measure
++ Button 4
+  + __Fire Counter Measure__
 
-Button 5
- - Cycle Hostile Target
++ Button 5
+  + __Cycle Hostile Target__
 
-Button 6
- - Cycle Friendly Target
++ Button 6
+  + __Cycle Friendly Target__
 
-Buttons 7/8/9/10/11/12
- - Unmodified Defaults
++ Buttons 7/8/9/10/11/12
+  + __Unmodified Defaults__
 
-Hat Up
- - Strafe Up
- - Strafe Forward
++ Hat Up
+  + __Strafe Up__
+  + __Strafe Forward__
 
-Hat Down
- - Strafe Down
- - Strafe Forward
++ Hat Down
+  + __Strafe Down__
+  + __Strafe Forward__
  
-Hat Left
- - Strafe Left
- - Strafe Forward
++ Hat Left
+  + __Strafe Left__
+  + __Strafe Forward__
  
-Hat Right
- - Strafe Right
- - Strafe Forward
++ Hat Right
+  + __Strafe Right__
+  + __Strafe Forward__
  
-Joystick Y (Up/Down)
- - Pitch
++ Joystick Y (Up/Down)
+  + __Pitch__
 
-Joystick X (Left/Right)
- - Roll
++ Joystick X (Left/Right)
+  + __Roll__
 
-Joystick Z (Twist)
- - Yaw
++ Joystick Z (Twist)
+  + __Yaw__
  
-#### custom_joystick_yaw3.xml Iceman
+#### Iceman custom_joystick_yaw3.xml 
 Buttons are the same as above except Roll and Yaw are swapped for you Icemen out there.
 
-Joystick X (Left/Right)
- - Yaw
++ Joystick X (Left/Right)
+  + __Yaw__
 
-Joystick Z (Twist)
- - Roll
++ Joystick Z (Twist)
+  + __Roll__
 
