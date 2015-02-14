@@ -1,11 +1,17 @@
 ## Star Citizen Action Maps
 Custom joystick action maps for Star Citizen for use with Hands On Mouse And Stick (HOMAS) mode.
+
 Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir>\CitizenClient\USER\Controls\Mappings directory.
+
+To load the custom joystick bindings, in game open the console with "~" then type:
+
+__ pp_rebindkeys __ to reset your bindings to default
+
+__ pp_rebindkeys custom_joystick_rot3 __ to apply new action mappings by filename
 
 ### Logitech Extreme 3D Pro Buttons
 
 #### Mavrick custom_joystick_rot3.xml 
-<div style='float: left'>
 <dl>
   <dt>Button 1/Trigger</dt>
   <dd>After Burner</dd>
@@ -27,11 +33,7 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 
   <dt>Buttons 7 8 9 10 11 12</dt>
   <dd>Unmodified Defaults</dd>
-</dl>
-</div>
 
-<div style='float: left'>
-<dl>
   <dt>Hat Up</dt>
   <dd>Strafe Up and Forward</dd>
 
@@ -53,7 +55,7 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
   <dt>Joystick Z (Twist)</dt>
   <dd>Yaw</dd>
 </dl>
-</div>
+
 #### Iceman custom_joystick_yaw3.xml 
 Buttons are the same as above except Roll and Yaw are swapped for you Icemen out there.
 <dl>
