@@ -5,6 +5,7 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 ### Logitech Extreme 3D Pro Buttons
 
 #### Mavrick custom_joystick_rot3.xml 
+<div style='float: left'>
 <dl>
   <dt>Button 1/Trigger</dt>
   <dd>After Burner</dd>
@@ -26,22 +27,22 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 
   <dt>Buttons 7 8 9 10 11 12</dt>
   <dd>Unmodified Defaults</dd>
+</dl>
+</div>
 
+<div style='float: left'>
+<dl>
   <dt>Hat Up</dt>
-  <dd>Strafe Up</dd>
-  <dd>Strafe Forward</dd>
+  <dd>Strafe Up and Forward</dd>
 
   <dt>Hat Down</dt>
-  <dd>Strafe Down</dd>
-  <dd>Strafe Forward</dd>
+  <dd>Strafe Down and Forward</dd>
  
   <dt>Hat Left</dt>
-  <dd>Strafe Left</dd>
-  <dd>Strafe Forward</dd>
+  <dd>Strafe Left and Forward</dd>
  
   <dt>Hat Right</dt>
-  <dd>Strafe Right</dd>
-  <dd>Strafe Forward</dd>
+  <dd>Strafe Right and Forward</dd>
  
   <dt>Joystick Y (Up/Down)</dt>
   <dd>Pitch</dd>
@@ -52,6 +53,7 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
   <dt>Joystick Z (Twist)</dt>
   <dd>Yaw</dd>
 </dl>
+</div>
 #### Iceman custom_joystick_yaw3.xml 
 Buttons are the same as above except Roll and Yaw are swapped for you Icemen out there.
 <dl>
