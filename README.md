@@ -51,13 +51,13 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 
   <dt>Joystick Z (Twist)</dt>
   <dd>Yaw</dd>
- 
+</dl>
 #### Iceman custom_joystick_yaw3.xml 
 Buttons are the same as above except Roll and Yaw are swapped for you Icemen out there.
-
+<dl>
   <dt>Joystick X (Left/Right)</dt>
   <dd>Yaw</dd>
 
   <dt>Joystick Z (Twist)</dt>
   <dd>Roll</dd>
-
+</dl>
