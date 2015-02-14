@@ -7,9 +7,7 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 #### Mavrick custom_joystick_rot3.xml 
 <ul>
   <li>Button 1/Trigger
-    <ul>
-      </li>After Burner</li>
-    </ul>
+    </li>After Burner</li>
   </li>
 </ul>
 
