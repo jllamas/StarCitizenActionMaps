@@ -5,8 +5,8 @@ Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir
 ### Logitech Extreme 3D Pro Buttons
 
 #### Mavrick custom_joystick_rot3.xml 
-+ Button 1/Trigger
-  + After Burner
+* Button 1/Trigger
+  * After Burner
 
 + Button 2
   + __Toggle Pin Selected Target__
