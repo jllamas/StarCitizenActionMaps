@@ -1,9 +1,12 @@
 ## Star Citizen Action Maps
 Custom joystick action maps for Star Citizen for use with Hands On Mouse And Stick (HOMAS) mode.
 
-Download the zip file and copy the xml files into your C:\<StarCitizenInstallDir>\CitizenClient\USER\Controls\Mappings directory.
+Download the zip file and copy the xml files into the directory:
+```
+C:\<StarCitizenInstallDir>\CitizenClient\USER\Controls\Mappings
+```
 
-To load the custom joystick bindings, in game open the console with "~", and use the __pp_rebindkeys__ command.
+To load the custom joystick bindings, open the console with "~" and use the __pp_rebindkeys__ command.
 ```
 pp_rebindkeys
 ```
