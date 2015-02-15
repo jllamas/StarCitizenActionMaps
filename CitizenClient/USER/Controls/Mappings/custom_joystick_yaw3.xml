@@ -41,6 +41,12 @@
     <action name="v_afterburner">
       <rebind device="joystick" input="" />
     </action>
+    <action name="v_yaw">
+      <rebind device="joystick" input="" />
+    </action>
+    <action name="v_roll">
+     <rebind device="joystick" input="" />
+   </action>
   </actionmap>
 
   <actionmap name="spaceship_view">    
