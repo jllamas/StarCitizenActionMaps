@@ -45,8 +45,11 @@
       <rebind device="joystick" input="" />
     </action>
     <action name="v_roll">
-     <rebind device="joystick" input="" />
-   </action>
+      <rebind device="joystick" input="" />
+    </action>
+    <action name="v_throttle">
+      <rebind device="joystick" input="" />
+    </action>
   </actionmap>
 
   <actionmap name="spaceship_view">    
@@ -112,8 +115,11 @@
       <rebind device="joystick" input="js1_x" />
     </action>
     <action name="v_roll">
-     <rebind device="joystick" input="js1_rotz" />
-   </action>
+      <rebind device="joystick" input="js1_rotz" />
+    </action>
+    <action name="v_throttle">
+      <rebind device="joystick" input="js1_slider0" />
+    </action>
   </actionmap>
 
   <actionmap name="spaceship_targeting">
