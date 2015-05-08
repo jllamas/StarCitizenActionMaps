@@ -19,6 +19,8 @@ Will apply new action maps by file name
 
 Once you load into your ship and after every re-spawn you need to enable HOMAS Mode (__Right Shift__). This will enable free mouse look so you can aim your turrets and gimbaled weapons without moving the ship. Sometimes it is advantageous to enable Gimbal Lock (__Left Alt__) to bare all your weapons on a target.
 
+Thanks to the citizens over at Stanton Space Barn for the actionmaps tool, its a really good reference for all the attributes and it generates snippets of xml. https://www.stantonspacebarn.com/tools/actionmaps
+
 ### Logitech Extreme 3D Pro Buttons
 
 #### Maverick custom_joystick_rot3.xml 
