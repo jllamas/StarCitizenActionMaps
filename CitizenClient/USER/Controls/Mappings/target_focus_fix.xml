@@ -5,7 +5,7 @@
             <joystick instance="1" />
         </Devices>
     </CustomisationUIHeader>
- 
+
     <actionmap name="zero_gravity_general">
         <action name="z_override_joystick">
             <rebind device="xboxpad" input=" " />
@@ -15,4 +15,5 @@
             <rebind device="joystick" input=" " />
         </action>
     </actionmap>
+    
 </ActionMaps>
