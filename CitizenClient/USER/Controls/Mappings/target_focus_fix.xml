@@ -15,5 +15,4 @@
             <rebind device="joystick" input=" " />
         </action>
     </actionmap>
-    
 </ActionMaps>
