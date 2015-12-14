@@ -1,5 +1,6 @@
 ## Star Citizen Action Maps
 Custom joystick action maps for Star Citizen for use with Hands On Mouse And Stick (HOMAS) mode.
+__Updated for Star Citizen Alpha 2.0__
 
 Download the zip file and copy the xml files into the directory:
 ```
@@ -13,17 +14,15 @@ pp_rebindkeys
 Will set the default action maps.
 
 ```
-pp_rebindkeys custom_joystick_rot3
+pp_rebindkeys custom_joystick_rot4
 ```
 Will apply new action maps by file name
 
-Once you load into your ship and after every re-spawn you need to enable HOMAS Mode (__Right Shift__). This will enable free mouse look so you can aim your turrets and gimbaled weapons without moving the ship. Sometimes it is advantageous to enable Gimbal Lock (__Left Alt__) to bare all your weapons on a target.
-
-Thanks to the citizens over at Stanton Space Barn for the actionmaps tool, its a really good reference for all the attributes and it generates snippets of xml. https://www.stantonspacebarn.com/tools/actionmaps
+Once you load into your ship and after every re-spawn you need to enable HOMAS Mode (__Right Shift__). This will enable free mouse look so you can aim your turrets and gimbaled weapons without moving the ship.
 
 ### Logitech Extreme 3D Pro Buttons
 
-#### Maverick custom_joystick_rot3.xml 
+#### Maverick custom_joystick_rot4.xml
 <dl>
   <dt>Button 1/Trigger</dt>
   <dd>After Burner</dd>
@@ -51,13 +50,13 @@ Thanks to the citizens over at Stanton Space Barn for the actionmaps tool, its a
 
   <dt>Hat Down</dt>
   <dd>Strafe Down and Forward</dd>
- 
+
   <dt>Hat Left</dt>
   <dd>Strafe Left and Forward</dd>
- 
+
   <dt>Hat Right</dt>
   <dd>Strafe Right and Forward</dd>
- 
+
   <dt>Joystick Y (Up/Down)</dt>
   <dd>Pitch</dd>
 
@@ -68,7 +67,7 @@ Thanks to the citizens over at Stanton Space Barn for the actionmaps tool, its a
   <dd>Yaw</dd>
 </dl>
 
-#### Iceman custom_joystick_yaw3.xml 
+#### Iceman custom_joystick_yaw4.xml
 Buttons are the same as above except Roll and Yaw are swapped for you Icemen out there.
 <dl>
   <dt>Joystick X (Left/Right)</dt>
