@@ -1,0 +1,197 @@
+<ActionMaps version="1">
+
+  <!-- Star Citizen Alpha 2.4 Complete Joystick Unbind -->
+  <actionmap name="spaceship_defensive">
+    <action name="v_weapon_launch_countermeasure">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_weapon_cycle_countermeasure_fwd">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+  </actionmap>
+
+  <actionmap name="spaceship_weapons">
+    <action name="v_attack1_group1">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_attack1_group2">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+  </actionmap>
+
+  <actionmap name="spaceship_missiles">
+    <action name="v_weapon_launch_missile">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+  </actionmap>
+
+  <actionmap name="spaceship_view">
+    <action name="v_view_yaw_left">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_view_yaw_right">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_view_yaw">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_view_pitch_up">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_view_pitch_down">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+  </actionmap>
+
+  <actionmap name="spaceship_targeting">
+    <action name="v_aim_yaw">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_aim_yaw_left">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_aim_yaw_right">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_aim_pitch">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_aim_pitch_up">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_aim_pitch_down">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_target_reticle_focus">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_target_cycle_all_fwd">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_target_missile_lock_focused">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_target_cycle_hostile_fwd">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_target_nearest_hostile">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_target_head_tracking">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+  </actionmap>
+
+  <!-- Unbind everything except Pitch, Roll, Yaw and Throttle -->
+  <actionmap name="spaceship_movement">
+    <action name="v_target_match_vel">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_ifcs_toggle_vector_decoupling">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_strafe_up">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_strafe_down">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_strafe_left">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_strafe_right">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_ifcs_mode_shift">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_boost">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_afterburner">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_toggle_landing_system">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_cycle_landing_mode">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_landing_target_lock">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_toggle_qdrive_system">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+    <action name="v_toggle_qdrive_engagement">
+      <rebind device="joystick" input="js1_ " />
+    </action>
+  </actionmap>
+
+
+
+
+
+  <!-- Better Binds -->
+  <actionmap name="spaceship_movement">
+    <action name="v_boost">
+      <rebind device="joystick" input="js1_button1" />
+    </action>
+    <action name="v_afterburner">
+      <rebind device="joystick" input="js1_button1" />
+    </action>
+    <action name="v_strafe_up">
+      <rebind device="joystick" input="js1_hat1_up" />
+    </action>
+    <action name="v_strafe_down">
+      <rebind device="joystick" input="js1_hat1_down" />
+    </action>
+    <action name="v_strafe_left">
+      <rebind device="joystick" input="js1_hat1_left" />
+    </action>
+    <action name="v_strafe_right">
+      <rebind device="joystick" input="js1_hat1_right" />
+    </action>
+    <action name="v_strafe_forward">
+      <rebind device="joystick" input="js1_hat1_left" />
+      <addbind device="joystick" input="js1_hat1_right" />
+    </action>
+    <action name="v_ifcs_mode_shift">
+      <rebind device="joystick" input="js1_button6" />
+    </action>
+    <action name="v_cycle_landing_mode">
+      <rebind device="joystick" input="js1_button2" />
+    </action>
+    <action name="v_toggle_qdrive_engagement">
+      <rebind device="joystick" input="js1_button2" />
+    </action>
+    <action name="v_toggle_landing_system">
+      <rebind device="joystick" input="js1_button12" />
+    </action>
+    <action name="v_toggle_qdrive_system">
+      <rebind device="joystick" input="js1_button11" />
+    </action>
+    <action name="v_landing_target_lock">
+      <rebind device="mouse" input="mouse3" />
+    </action>
+  </actionmap>
+
+  <actionmap name="spaceship_targeting">
+    <action name="v_target_cycle_friendly_fwd">
+      <rebind device="joystick" input="js1_button3" />
+    </action>
+    <action name="v_target_cycle_hostile_fwd">
+      <rebind device="joystick" input="js1_button4" />
+    </action>
+  </actionmap>
+
+  <actionmap name="spaceship_defensive">
+    <action name="v_weapon_launch_countermeasure">
+      <rebind device="joystick" input="js1_button5" />
+    </action>
+    <action name="v_weapon_cycle_countermeasure_fwd">
+      <rebind device="joystick" input="js1_button5" />
+    </action>
+  </actionmap>
+
+</ActionMaps>
