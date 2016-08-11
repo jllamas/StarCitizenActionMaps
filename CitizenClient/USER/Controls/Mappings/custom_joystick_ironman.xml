@@ -1,6 +1,8 @@
 <ActionMaps version="1">
 
   <!-- Star Citizen Alpha 2.4 Complete Joystick Unbind -->
+  <!-- Unbind everything except Pitch, Roll, Yaw and Throttle -->
+
   <actionmap name="spaceship_defensive">
     <action name="v_weapon_launch_countermeasure">
       <rebind device="joystick" input="js1_ " />
@@ -82,7 +84,6 @@
     </action>
   </actionmap>
 
-  <!-- Unbind everything except Pitch, Roll, Yaw and Throttle -->
   <actionmap name="spaceship_movement">
     <action name="v_target_match_vel">
       <rebind device="joystick" input="js1_ " />
@@ -128,11 +129,7 @@
     </action>
   </actionmap>
 
-
-
-
-
-  <!-- Better Binds -->
+  <!-- Rich Purnell is a steely eyed missile man. -->
   <actionmap name="spaceship_movement">
     <action name="v_boost">
       <rebind device="joystick" input="js1_button1" />
