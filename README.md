@@ -1,6 +1,6 @@
 ## Star Citizen Action Maps
 Custom joystick action maps for Star Citizen for use with Hands On Mouse And Stick (HOMAS) mode.
-__Updated for Star Citizen Alpha 2.0__
+__Updated for Star Citizen Alpha 2.4__
 
 Download the zip file and copy the xml files into the directory:
 ```
@@ -14,65 +14,60 @@ pp_rebindkeys
 Will set the default action maps.
 
 ```
-pp_rebindkeys custom_joystick_rot4
+pp_rebindkeys custom_joystick_ironman
 ```
 Will apply new action maps by file name
 
-Once you load into your ship and after every re-spawn you need to enable HOMAS Mode (__Right Shift__). This will enable free mouse look so you can aim your turrets and gimbaled weapons without moving the ship.
+### Notes
+Every time you sit in the pilots seat, or re-spawn you'll have to enable HOMAS Mode (__Right Shift__). This will disable rotating/pitching with the mouse so you can aim your turrets and gimbaled weapons. If your like me you'll also have to hit (__Right Alt + /__) to swap yaw and rotate on the joystick axes X & Y.
 
-### Logitech Extreme 3D Pro Buttons
-
-#### Maverick custom_joystick_rot4.xml
+### Logitech Extreme 3D Pro Button Ironman Reference
 <dl>
-  <dt>Button 1/Trigger</dt>
-  <dd>After Burner</dd>
+  <dt>Button 1 [tap] (Trigger)</dt>
+  <dd>Boost (Increase acceleration up to the top speed)</dd>
 
-  <dt>Button 2</dt>
-  <dd>Toggle Pin Selected Target</dd>
+  <dt>Button 1 [Double Tap] (Trigger)</dt>
+  <dd>After Burner (Increase top speed)</dd>
 
-  <dt>Button 3</dt>
-  <dd>Nearest Hostile</dd>
+  <dt>Button 2 [tap] (While in Landing Mode)</dt>
+  <dd>Cycle Landing Mode (Manual/Automatic)</dd>
 
-  <dt>Button 4</dt>
-  <dd>Fire Counter Measure</dd>
+  <dt>Button 2 [tap] (While in Quantum Drive Mode)</dt>
+  <dd>Start/Stop Quantum Jump</dd>
 
-  <dt>Button 5</dt>
-  <dd>Cycle Hostile Target</dd>
+  <dt>Button 3 [tap]</dt>
+  <dd>Cycle Friendly Targets Forward</dd>
 
-  <dt>Button 6</dt>
-  <dd>Cycle Friendly Target</dd>
+  <dt>Button 4 [tap]</dt>
+  <dd>Cycle Hostile Targets Forward</dd>
 
-  <dt>Buttons 7 8 9 10 11 12</dt>
-  <dd>Unmodified Defaults</dd>
+  <dt>Button 5 [tap]</dt>
+  <dd>Cycle Counter Measure Forward</dd>
 
-  <dt>Hat Up</dt>
-  <dd>Strafe Up and Forward</dd>
+  <dt>Button 5 [Hold]</dt>
+  <dd>Launch Counter Measure</dd>
 
-  <dt>Hat Down</dt>
-  <dd>Strafe Down and Forward</dd>
+  <dt>Button 6 [tap]</dt>
+  <dd>Toggle IFCS Flight Mode (Precision/Combat/Cruise)</dd>
 
-  <dt>Hat Left</dt>
+  <dt>Buttons 7 8 9 10</dt>
+  <dd>Not used... Yet.</dd>
+
+  <dt>Button 11 [tap]</dt>
+  <dd>Toggle Quantum Drive Mode</dd>
+
+  <dt>Button 12 [tap]</dt>
+  <dd>Toggle Landing Mode</dd>
+
+  <dt>Hat Up [tap]</dt>
+  <dd>Strafe Up [tap]</dd>
+
+  <dt>Hat Down [tap]</dt>
+  <dd>Strafe Down</dd>
+
+  <dt>Hat Left [tap]</dt>
   <dd>Strafe Left and Forward</dd>
 
-  <dt>Hat Right</dt>
+  <dt>Hat Right [tap]</dt>
   <dd>Strafe Right and Forward</dd>
-
-  <dt>Joystick Y (Up/Down)</dt>
-  <dd>Pitch</dd>
-
-  <dt>Joystick X (Left/Right)</dt>
-  <dd>Roll</dd>
-
-  <dt>Joystick Z (Twist)</dt>
-  <dd>Yaw</dd>
-</dl>
-
-#### Iceman custom_joystick_yaw4.xml
-Buttons are the same as above except Roll and Yaw are swapped for you Icemen out there.
-<dl>
-  <dt>Joystick X (Left/Right)</dt>
-  <dd>Yaw</dd>
-
-  <dt>Joystick Z (Twist)</dt>
-  <dd>Roll</dd>
 </dl>
