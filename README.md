@@ -19,7 +19,7 @@ pp_rebindkeys custom_joystick_ironman
 Will apply new action maps by file name from the mappings directory above.
 
 ### Notes
-Every time you sit in the pilots seat, or re-spawn you'll have to enable HOMAS Mode (__Right Shift__). This will disable rotating/pitching with the mouse so you can aim your turrets and gimbaled weapons. If your like me you'll also have to hit (__Right Alt + /__) to swap yaw and rotate on the joystick axes X & Y.
+Every time you sit in the pilots seat, or re-spawn you'll have to enable HOMAS Mode (__Right Shift__). This will disable rotating/pitching with the mouse so you can aim your turrets and gimbaled weapons. If your like me you'll also have to hit (__Right Alt + .__) to swap yaw and rotate on the joystick axes X & Y.
 
 ### Logitech Extreme 3D Pro Button Ironman Reference
 <dl>
